@@ -27,6 +27,9 @@ module.exports = {
     // disallow use of debugger
     "no-debugger": "warn",
 
+    // disallow dangling underscores in identifiers
+    'no-underscore-dangle': 'off',
+
     // specify the maximum length of a line in your program
     "max-len": ["error", 120],
 
