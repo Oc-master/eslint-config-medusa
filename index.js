@@ -19,7 +19,7 @@ module.exports = {
     getApp: true,
     getCurrentPages: true
   },
-  plugins: ["airbnb-base"],
+  extends: ["airbnb-base"],
   rules: {
     // disallow use of console
     "no-console": "off",
@@ -35,5 +35,17 @@ module.exports = {
 
     // require return statements to either always or never specify values
     "consistent-return": ["error", { "treatUndefinedAsUnspecified": true }]
+  },
+  settings: {
+    "import/resolver": {
+      alias: {
+        map: [
+          ["@", "./src"],
+          ["utils", "./src/utils"],
+          ["services", "./src/services"]
+        ],
+        extensions: [".js", ".json"]
+      }
+    }
   }
 };
