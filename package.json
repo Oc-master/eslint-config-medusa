@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-medusa",
   "version": "1.0.0",
-  "description": "ESLint通用工具集",
+  "description": "ESLint通用规则集",
   "main": "index.js",
   "scripts": {
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Oc-master/eslint-config-medusa#readme",
   "dependencies": {
+    "babel-eslint": "^10.1.0",
     "eslint": "^7.4.0",
     "eslint-config-airbnb-base": "^14.2.0"
   },
