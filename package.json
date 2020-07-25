@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-medusa",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint通用规则集",
   "main": "index.js",
   "scripts": {
