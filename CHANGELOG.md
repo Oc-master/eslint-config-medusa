@@ -1,3 +1,22 @@
+## [1.0.3](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.3) (2020-08-10)
+
+
+### Features
+
+* **index.js:** 关闭no-unused-expressions规则 ([fe0d899](https://github.com/Oc-master/eslint-config-medusa/commit/fe0d899ee3d3921f5bc716f19d3590ac9bbc2bed))
+
+
+
+## [1.0.2](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.1...v1.0.2) (2020-07-25)
+
+
+### Features
+
+* **index.js:** 添加别名检测配置 ([14cfddf](https://github.com/Oc-master/eslint-config-medusa/commit/14cfddfef652c84e2f208837fcc637f5fe04d93b))
+* **package.json:** 添加eslint-plugin-import eslint-import-resolver-alias依赖包 ([03ab415](https://github.com/Oc-master/eslint-config-medusa/commit/03ab415af142861561b00ab96716b8034984d916))
+
+
+
 ## [1.0.1](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.0...v1.0.1) (2020-07-24)
 
 
