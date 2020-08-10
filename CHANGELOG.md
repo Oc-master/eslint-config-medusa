@@ -1,3 +1,12 @@
+## [1.0.3](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.3) (2020-08-10)
+
+
+### Features
+
+* **index.js:** 关闭no-unused-expressions规则 ([fe0d899](https://github.com/Oc-master/eslint-config-medusa/commit/fe0d899ee3d3921f5bc716f19d3590ac9bbc2bed))
+
+
+
 ## [1.0.2](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.1...v1.0.2) (2020-07-25)
 
 
