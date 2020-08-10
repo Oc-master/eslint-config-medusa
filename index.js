@@ -22,7 +22,7 @@ module.exports = {
   extends: ["airbnb-base"],
   rules: {
     // disallow use of console
-    "no-console": "off",
+    "no-console": "warn",
 
     // disallow use of debugger
     "no-debugger": "warn",
@@ -34,7 +34,10 @@ module.exports = {
     "max-len": ["error", 120],
 
     // require return statements to either always or never specify values
-    "consistent-return": ["error", { "treatUndefinedAsUnspecified": true }]
+    "consistent-return": ["error", { "treatUndefinedAsUnspecified": true }],
+
+    // disallow usage of expressions in statement position
+    "no-unused-expressions": "off"
   },
   settings: {
     "import/resolver": {
@@ -44,7 +47,7 @@ module.exports = {
           ["utils", "./src/utils"],
           ["services", "./src/services"]
         ],
-        extensions: [".js", ".json"]
+        extensions: [".js", ".json", ".less"]
       }
     }
   }
