@@ -12,6 +12,7 @@ module.exports = {
   globals: {
     mc: false,
     wx: true,
+    swan: true,
     App: true,
     Page: true,
     Component: true,
