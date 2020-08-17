@@ -26,7 +26,7 @@ module.exports = {
     "no-console": "warn",
 
     // disallow use of debugger
-    "no-debugger": "warn",
+    "no-debugger": "error",
 
     // disallow dangling underscores in identifiers
     'no-underscore-dangle': 'off',
