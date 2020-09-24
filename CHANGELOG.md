@@ -1,3 +1,12 @@
+## [1.0.5](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.5) (2020-09-24)
+
+
+### Features
+
+* **index.js:** 添加TS、SCSS相关后缀名 ([2df3678](https://github.com/Oc-master/eslint-config-medusa/commit/2df36789b9bf0e5b0a1814a65ae2f7466d51b608))
+
+
+
 ## [1.0.4](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.4) (2020-08-17)
 
 
@@ -45,6 +54,3 @@
 
 * **index.js:** 完成基础ESLint配置 ([c52d705](https://github.com/Oc-master/eslint-config-medusa/commit/c52d705fd213a09aa954702b899ee8817f73991f))
 * **package.json:** 初始化package.json文件,添加生成changelog命令 ([b5df984](https://github.com/Oc-master/eslint-config-medusa/commit/b5df984a1fd2f0ee742a82224230c939bc7b25ac))
-
-
-
