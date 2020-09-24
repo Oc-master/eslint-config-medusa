@@ -48,7 +48,7 @@ module.exports = {
           ["utils", "./src/utils"],
           ["services", "./src/services"]
         ],
-        extensions: [".js", ".json", ".less"]
+        extensions: [".js", ".ts", ".json", ".less", ".scss", ".sass"]
       }
     }
   }
