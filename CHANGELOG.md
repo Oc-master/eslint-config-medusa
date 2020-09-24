@@ -1,3 +1,13 @@
+## [1.0.4](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.4) (2020-08-17)
+
+
+### Features
+
+* **index.js:** 添加全局变量swan ([0eaed49](https://github.com/Oc-master/eslint-config-medusa/commit/0eaed490e53294579b1856f1497966966c3444d5))
+* **index.js:** 调整no-debugger规则的等级 ([3ab12f6](https://github.com/Oc-master/eslint-config-medusa/commit/3ab12f64f51ee339d2d5716ce85f5fcb0762fbf6))
+
+
+
 ## [1.0.3](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.3) (2020-08-10)
 
 
