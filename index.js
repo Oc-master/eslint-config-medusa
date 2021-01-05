@@ -10,7 +10,8 @@ module.exports = {
     es6: true
   },
   globals: {
-    mc: false,
+    ms: false,
+    Toast: false,
     wx: true,
     swan: true,
     App: true,
