@@ -1,3 +1,12 @@
+## [1.0.7](https://github.com/Oc-master/eslint-config-medusa/compare/1.0.6...1.0.7) (2021-01-05)
+
+
+### Features
+
+* **index.js:** 添加MS_类全局变量 ([ca44ac1](https://github.com/Oc-master/eslint-config-medusa/commit/ca44ac166e934344cf4b85311b469a35ff1a7c77))
+
+
+
 ## [1.0.6](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.6) (2021-01-05)
 
 
