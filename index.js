@@ -12,6 +12,9 @@ module.exports = {
   globals: {
     ms: false,
     Toast: false,
+    MS_ENV: false,
+    MS_HOSTS: false,
+    MS_ROUTES: false,
     wx: true,
     swan: true,
     App: true,
