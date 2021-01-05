@@ -1,3 +1,12 @@
+## [1.0.6](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.6) (2021-01-05)
+
+
+### Features
+
+* **index.js:** 修改全局变量配置 ([401f4b5](https://github.com/Oc-master/eslint-config-medusa/commit/401f4b5a44f11d03f9e16c0797cd18a93f5bb6fe))
+
+
+
 ## [1.0.5](https://github.com/Oc-master/eslint-config-medusa/compare/v1.0.2...v1.0.5) (2020-09-24)
 
 
