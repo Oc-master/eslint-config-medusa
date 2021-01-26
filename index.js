@@ -42,7 +42,9 @@ module.exports = {
     "consistent-return": ["error", { "treatUndefinedAsUnspecified": true }],
 
     // disallow usage of expressions in statement position
-    "no-unused-expressions": "off"
+    "no-unused-expressions": "off",
+
+    "import/no-unresolved": ["error", { "ignore": ["^@/"] }]
   },
   settings: {
     "import/resolver": {
