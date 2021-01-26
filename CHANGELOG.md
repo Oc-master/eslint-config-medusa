@@ -1,3 +1,12 @@
+## [1.0.8](https://github.com/Oc-master/eslint-config-medusa/compare/1.0.7...1.0.8) (2021-01-26)
+
+
+### Features
+
+* **index.js:** 添加规则，@符号路径忽略检测 ([c07ddb0](https://github.com/Oc-master/eslint-config-medusa/commit/c07ddb059bc3f6b03c53a9617510569b0ff59517))
+
+
+
 ## [1.0.7](https://github.com/Oc-master/eslint-config-medusa/compare/1.0.6...1.0.7) (2021-01-05)
 
 
